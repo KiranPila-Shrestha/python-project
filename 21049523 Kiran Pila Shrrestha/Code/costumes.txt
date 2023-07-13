@@ -1,0 +1,5 @@
+CopCostumeSt,Cartmax,15,90
+FormalSuite,Megaplex,14.5,75
+FairyCostume,DollarSmart,18,13
+DesignerKurti,TishaBrand,70,11
+Bodycon Dress,NishaBrand,20,100
